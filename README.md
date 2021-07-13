@@ -2,8 +2,7 @@
 
 ## Our Goal
 
-The objective how we can customise Flutter Widgets to achieve our own beautiful user interface designs. If you have a designer on board, no matter how unconventional their designs are, we can create them using Flutter. 
-
+The objective how we can customise Flutter Widgets to achieve beautiful user interface designs.
 
 ## What you will create
 
